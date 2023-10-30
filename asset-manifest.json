@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "//PrimaWira/GAME.github.io/static/css/main.5e908e21.css",
-    "main.js": "//PrimaWira/GAME.github.io/static/js/main.110e1043.js",
-    "index.html": "//PrimaWira/GAME.github.io/index.html",
-    "main.5e908e21.css.map": "//PrimaWira/GAME.github.io/static/css/main.5e908e21.css.map",
-    "main.110e1043.js.map": "//PrimaWira/GAME.github.io/static/js/main.110e1043.js.map"
+    "main.css": "//Primajas/GAME.github.io/static/css/main.5e908e21.css",
+    "main.js": "//Primajas/GAME.github.io/static/js/main.110e1043.js",
+    "index.html": "//Primajas/GAME.github.io/index.html",
+    "main.5e908e21.css.map": "//Primajas/GAME.github.io/static/css/main.5e908e21.css.map",
+    "main.110e1043.js.map": "//Primajas/GAME.github.io/static/js/main.110e1043.js.map"
   },
   "entrypoints": [
     "static/css/main.5e908e21.css",
